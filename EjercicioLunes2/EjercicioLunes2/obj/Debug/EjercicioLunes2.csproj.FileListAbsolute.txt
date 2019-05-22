@@ -1,0 +1,10 @@
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\bin\Debug\EjercicioLunes2.exe.config
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\bin\Debug\EjercicioLunes2.exe
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\bin\Debug\EjercicioLunes2.pdb
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\obj\Debug\EjercicioLunes2.csprojAssemblyReference.cache
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\obj\Debug\EjercicioLunes2.Form1.resources
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\obj\Debug\EjercicioLunes2.Properties.Resources.resources
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\obj\Debug\EjercicioLunes2.csproj.GenerateResource.cache
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\obj\Debug\EjercicioLunes2.csproj.CoreCompileInputs.cache
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\obj\Debug\EjercicioLunes2.exe
+C:\Users\technology\source\repos\EjercicioLunes2\EjercicioLunes2\obj\Debug\EjercicioLunes2.pdb
