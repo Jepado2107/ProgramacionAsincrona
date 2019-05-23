@@ -17,12 +17,13 @@ namespace EjercicioLunes2
             InitializeComponent();
         }
         private int contador;
-        private void Button1_Click(object sender, EventArgs e)
+        private async void Button1_Click(object sender, EventArgs e)
         {
             Operaciones resultado = new Operaciones();
-
+            await Task.Run(()=> 
+            {
             label1.Text = resultado.Sumar().ToString();
-
+                });
         }
         
         private void Button2_Click(object sender, EventArgs e)
